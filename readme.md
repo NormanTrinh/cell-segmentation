@@ -1,5 +1,11 @@
 # Cell segmentation using Mask R-CNN
-- This project borrowed code from [cj-mills](https://github.com/cj-mills/pytorch-mask-rcnn-tutorial-code)
+
+### Note
+- This project borrowed code from [cj-mills](https://github.com/cj-mills/pytorch-mask-rcnn-tutorial-code), thanks for his tutorial, it help me a lot!!!
 - Using [GFP-GOWT1 mouse stem cells](http://celltrackingchallenge.net/2d-datasets/) dataset
 - Using maskrcnn_resnet50_fpn_v2 from torchvision
 - This project only for learning purpose so doesn't have any benchmark results
+- checkpoint link [here](https://drive.google.com/file/d/1-71yJP0mDivh1qgbCkkUYTCKYc-PZjFZ/view?usp=drive_link)
+
+### How to use this repo
+- Just use [mask_rcnn_cell.ipynb](mask_rcnn_cell.ipynb)
